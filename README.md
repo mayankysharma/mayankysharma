@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a incoming Robotics Graduate Student at University of Maryland, College Park.
+I am a Robotics Graduate Student at University of Maryland, College Park.
 
 Here are some ideas to get you started:
 
