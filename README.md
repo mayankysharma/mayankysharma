@@ -6,8 +6,7 @@
 - 💞️ I’m looking to collaborate on ROS and CV
 - 📫 How to reach me, ping me at sharmamayank1301@gmail.com
 - You may also visit [my website](https://mayankysharma.github.io/), any feedback or comment is appreciated
-- My linkedin profile: <a href="https://www.linkedin.com/in/mayankysharma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-                                                                             badge&logo=linkedin&logoColor=white"></a>
+- My linkedin profile:     <a href="https://www.linkedin.com/in/mayankysharma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mayankysharma&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=mayankysharma&count_private=true&theme=tokyonight&showicons=true) 
 
