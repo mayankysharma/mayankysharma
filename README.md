@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Mayank Sharme
+- 👋 Hi, I’m Mayank Sharma
 - 👀 I’m interested in robotics, computer vision and AI
 - 🌱 I’m a Robotics Master's student
 - 💞️ I’m looking to collaborate on ROS and CV
