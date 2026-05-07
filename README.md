@@ -87,8 +87,7 @@
 ---
 ### 📈 GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mayankysharma&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/mayankysharma)
-
+[![My GitHub Stats](https://github-readme-stats-fast.vercel.app/api/?username=mayankysharma&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/mayankysharma)
 ---
 
 <p align="left">
