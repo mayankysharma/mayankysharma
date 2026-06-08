@@ -8,7 +8,7 @@
 ## 🚀 What I’m Working On
 | Project | TL;DR |
 |---------|-------|
-| **LangGraph Code Agent** | Open-source agent that generates production-ready Python with optional tracing & automated QA (Black, Pylint, MyPy, Judgeval). |
+| **AI Copilot for Robotics Simulation** | Building prompt to simulation for robotics. |
 
 ## 🌱 Currently Learning
 - Isaac Sim
