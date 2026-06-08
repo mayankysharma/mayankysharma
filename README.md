@@ -11,9 +11,9 @@
 | **LangGraph Code Agent** | Open-source agent that generates production-ready Python with optional tracing & automated QA (Black, Pylint, MyPy, Judgeval). |
 
 ## 🌱 Currently Learning
-- Fine-tuning & evaluating open-source LLMs for robotics coding  
-- Scalable CI/CD for cloud-based AV simulation  
-- Advanced TypeScript patterns & Next.js 14 server components  
+- Isaac Sim
+- Reinforcement Learning for Manipulation Tasks
+- Control Policies for Humanoid Robots
 
 ## 📫 **Reach Me**: Drop me a mail at [sharmamayank1301@gmail.com](mailto:sharmamayank1301@gmail.com) or visit my [website](https://mayankysharma.github.io/) for more insights!
 
